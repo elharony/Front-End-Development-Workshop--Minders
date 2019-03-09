@@ -22,9 +22,11 @@ and so on.
 - DON'T cheat/copy others' code. If you don't understand something, ask... But never cheat. **Remember; Our goal is to learn, not to pass the task(s)!**
 - Be ready, as you might be asked to explain certain part of the task. **Example: Why did you use X instead of Y?**
 
-## Deliverables
-- Create a folder called `"P1-Resume"` and follow it with `--your-name`. Example: `"P1-Resume--Yahya-Elharony"`
-- Upload it via `Google Drive` (Link will be mentioned soon...)
+## Deliverables Instructions
+- Open the [Workshop's Drive](https://drive.google.com/drive/u/0/folders/1NSbd29QsturGGTne4UyBh1VOT3rkduOm)
+- Create a folder with your name (i.e. `Yahya Elharony`)
+- Inside it, upload the project folder - `P1-Resume` and follow it with `--your-name`. Example: `"P1-Resume--Yahya-Elharony"`
+> Naming your Project's Folder with your name will make it easier for the `Project Reviewers` to download/review your code
 
 ## Result
 ![Result](./Result.png)
