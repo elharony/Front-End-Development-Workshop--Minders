@@ -3,6 +3,7 @@ There're so many great heroes in the world, and we're going to build a website t
 
 ## Helpers
 - Install [`Live Server` Extension on `VS Code`](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- Install [ColorZilla Google Chrome Extension](http://www.colorzilla.com/chrome/)
 
 ## Getting Started
 - Download this branch
