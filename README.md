@@ -1,32 +1,28 @@
-# P1 - My Resume
-The first project in `Minders - Web Design` Workshops, it's all about building a simple HTML-only Resume
+# P2 - Build A Tribute Page
+There're so many great heroes in the world, and we're going to build a website to highlight one of them!
 
-## Requirements
-- Convert the `Result` picture below, into `HTML` page
-- ALL content must be `wrapped` within HTML Tags. Make sure to use the appropriate HTML Tags for each part of it!
-- Your page must have a `<title>`, with the following scheme: `Your Name | Job Title`
-- Write REAL content about yourself, it's your Resume/CV. **Placeholder/Dummy Content won't be accepted**
-- Your code must be well-formatted `tree-like` structure
-```
-<div>
-    <p>
-        <a href="#"></a>
-    </p>
-</div>
-```
-and so on.
+## Helpers
+- Install [`Live Server` Extension on `VS Code`](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
-## Tips & Tricks
-- Wrap each part in a separated `<div>` with a unique `class` attribute
-- Remember when to use `<h1>`, `<h2>`, `<p>`, ... etc.
-- DON'T cheat/copy others' code. If you don't understand something, ask... But never cheat. **Remember; Our goal is to learn, not to pass the task(s)!**
-- Be ready, as you might be asked to explain certain part of the task. **Example: Why did you use X instead of Y?**
+## Getting Started
+- Download this branch
+- Open `CONTENT.md` to take an overview of the **Plain Text**
+- Create a simple `Project Structure` with the following: `index.html`, `style.css`, `css/`, `img/`, `Norman-Borlaug.jpg` _(Already provided)_
+- The `Structure Tree` should look like this:
+```
+-- index.html
+-- css/
+-- img/
+---- css/style.css
+---- img/Norman-Borlaug.jpg
+```
+- Write your own `Tribute Page` with `HTML/CSS` using the given content (`CONTENT.md`) and files(`Norman-Borlaug.jpg`) to match with the `Final Result` 
 
 ## Deliverables Instructions
 - Open the [Workshop's Drive](https://drive.google.com/drive/u/0/folders/1NSbd29QsturGGTne4UyBh1VOT3rkduOm)
 - Create a folder with your name (i.e. `Yahya Elharony`)
-- Inside it, upload the project folder - `P1-Resume` and follow it with `--your-name`. Example: `"P1-Resume--Yahya-Elharony"`
+- Inside it, upload the project folder - `P2-Tribute-Page` and follow it with `--your-name`. Example: `"P2-Tribute-Page--Yahya-Elharony"`
 > Naming your Project's Folder with your name will make it easier for the `Project Reviewers` to download/review your code
 
-## Result
-![Result](./Result.png)
+## Final Result
+![Build A Tribute Page - Final Result](https://user-images.githubusercontent.com/16986422/54327704-aea6ca00-4613-11e9-8781-e815be563af5.png)
