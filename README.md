@@ -12,6 +12,8 @@ Write your own Technical Documentation Page!
 ```
 - [Build a clone of this demo](https://codepen.io/freeCodeCamp/full/NdrKKL) (Copy/Paste the content)
 
+> A minimum of **5 sections* are acceptable; `Introduction`, `What you should already know`, `JavaScript and Java`, `Hellow World`, `Variables`!
+
 ## Deliverables Instructions
 - Open the [Workshop's Drive](https://drive.google.com/drive/u/0/folders/1NSbd29QsturGGTne4UyBh1VOT3rkduOm)
 - Create a folder with your name (i.e. `Yahya Elharony`)
