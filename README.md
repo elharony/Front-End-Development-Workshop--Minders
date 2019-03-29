@@ -1,8 +1,7 @@
-# P3 - Technical Documentation Page
-Write your own Technical Documentation Page!
+# P3 - Product Landing Page
+A basic Landing Page!
 
 ## Requirements & Instructions
-- Download this branch
 - Create a simple `Project Structure` with the following: `index.html`, `style.css`, `css/`
 - The `Structure Tree` should look like this:
 ```
