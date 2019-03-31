@@ -1,4 +1,4 @@
-# P5 - Build A Survey Form
+# P4 - Build A Survey Form
 Top education programs always seek for students' feedback, and that's why we are going to build A `Survey Form`!
 
 ## Getting Started
@@ -15,7 +15,7 @@ Top education programs always seek for students' feedback, and that's why we are
 ## Deliverables Instructions
 - Open the [Workshop's Drive](https://drive.google.com/drive/u/0/folders/1NSbd29QsturGGTne4UyBh1VOT3rkduOm)
 - Create a folder with your name (i.e. `Yahya Elharony`)
-- Inside it, upload the project folder - `P5-Survey-Form` and follow it with `--your-name`. Example: `"P5-Survey-Form--Yahya-Elharony"`
+- Inside it, upload the project folder - `P4-Survey-Form` and follow it with `--your-name`. Example: `"P4-Survey-Form--Yahya-Elharony"`
 > Naming your Project's Folder with your name will make it easier for the `Project Reviewers` to download/review your code
 
 ## Final Result
