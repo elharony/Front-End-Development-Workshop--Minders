@@ -6,7 +6,7 @@ This repo contains all projects, assignments, any material related to the Front 
 
 - [x] `9` March 2019
 - [x] `16` March 2019
-- [ ] `30` March 2019
+- [x] `30` March 2019
 - [ ] `6` April 2019
 
 - Duration: `4hrs` starts from `12:00 PM`
@@ -24,5 +24,14 @@ This repo contains all projects, assignments, any material related to the Front 
 - Slides/Presentation: [View on Google Slides](https://docs.google.com/presentation/d/16-n0koCqankSKan5iDmZuw6pGguSwUprCQ7cilKtW2w/edit?usp=sharing)
 - Task(s):
   - [ ] [P2: Tribute Page](https://github.com/elharony/Front-End-Development-Workshop--Minders/tree/P2-Tribute-Page)
+
+## #3 Session
+- Attendees: `11`
+- Slides/Presentation: [View on Google Slides](https://docs.google.com/presentation/d/1AhiodCOwrz6n9DcrtkibHJGnKrViFcoLC1NvKodVXls/edit?usp=sharing)
+- Project(s):
+  - [x] [P3: Technical Documentation Page](https://github.com/elharony/Front-End-Development-Workshop--Minders/tree/P3-Technical-Documentation-Page)
+- Task(s):
+  - [ ] [P4: Survey Form](https://github.com/elharony/Front-End-Development-Workshop--Minders/tree/P4-Survey-Form)
+
 
 _To be continued....._
