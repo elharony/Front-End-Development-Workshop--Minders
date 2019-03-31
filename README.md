@@ -1,5 +1,5 @@
-# P3 - Product Landing Page
-A basic Landing Page!
+# P3 - Technical Documentation Page
+Every Programming Language, Framework or even a Technical Tool has its Documentation. In this project, you're going to build a Technical Documentation Page for JavaScript (Or anything you would like to)!
 
 ## Requirements & Instructions
 - Create a simple `Project Structure` with the following: `index.html`, `style.css`, `css/`
