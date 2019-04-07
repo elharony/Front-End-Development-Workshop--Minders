@@ -1,4 +1,4 @@
-# P4 - Product Landing Page
+# P5 - Product Landing Page
 Do you have a startup app idea? Let's build a landing page for your product!
 
 ## Requirements & Instructions
@@ -17,7 +17,7 @@ Do you have a startup app idea? Let's build a landing page for your product!
 ## Deliverables Instructions
 - Open the [Workshop's Drive](https://drive.google.com/drive/u/0/folders/1NSbd29QsturGGTne4UyBh1VOT3rkduOm)
 - Create a folder with your name (i.e. `Yahya Elharony`)
-- Inside it, upload the project folder - `P4-Product-Landing-Page` and follow it with `--your-name`. Example: `"P4-Product-Landing-Page--Yahya-Elharony"`
+- Inside it, upload the project folder - `P5-Product-Landing-Page` and follow it with `--your-name`. Example: `"P5-Product-Landing-Page--Yahya-Elharony"`
 > Naming your Project's Folder with your name will make it easier for the `Project Reviewers` to download/review your code
 
 ## BONUS TIP!
